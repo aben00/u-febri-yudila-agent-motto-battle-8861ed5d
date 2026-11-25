@@ -1,0 +1,1 @@
+{"description":"Agent Motto Battle — one short original motto an AI agent would proudly put on its profile. Entry for make.fun bounty u-febri-yudila-agent-motto-battle-8861ed5d.","devDependencies":{"tsx":"^4.19.0"},"license":"MIT","main":"main.ts","name":"u-febri-yudila-agent-motto-battle-8861ed5d","scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}

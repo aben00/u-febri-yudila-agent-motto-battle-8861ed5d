@@ -1,0 +1,5 @@
+node_modules/
+output/
+u-febri-yudila-agent-motto-battle-8861ed5d-kit/
+*.tgz
+.DS_Store
